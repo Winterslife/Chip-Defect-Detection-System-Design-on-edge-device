@@ -1,0 +1,10 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:95:6:st7789v_spi_async_callback_enable	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:105:6:st7789v_spi_async_callback_register	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:117:5:st7789v_spi_draw_is_busy	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:127:5:st7789v_spi_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:148:5:st7789v_spi_set_dir	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:196:6:st7789v_spi_set_draw_window	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:231:6:st7789v_spi_draw_point	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:248:6:st7789v_spi_draw_area	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:268:6:st7789v_spi_draw_picture_nonblocking	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\st7789v_spi.c:287:6:st7789v_spi_draw_picture_blocking	48	static

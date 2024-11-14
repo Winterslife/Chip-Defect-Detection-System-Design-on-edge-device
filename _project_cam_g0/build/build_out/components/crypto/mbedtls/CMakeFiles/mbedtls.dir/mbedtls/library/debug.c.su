@@ -1,0 +1,10 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:204:6:mbedtls_debug_print_mpi.part.0	576	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:181:6:mbedtls_debug_print_ecp.part.0	544	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:37:6:mbedtls_debug_set_threshold	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:64:6:mbedtls_debug_print_msg	576	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:93:6:mbedtls_debug_print_ret	544	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:121:6:mbedtls_debug_print_buf	624	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:181:6:mbedtls_debug_print_ecp	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:204:6:mbedtls_debug_print_mpi	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:325:6:mbedtls_debug_print_crt	2144	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\debug.c:390:6:mbedtls_debug_printf_ecdh	0	static

@@ -1,0 +1,7 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:48:31:lv_trigo_sin	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:83:10:lv_bezier3	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:109:28:lv_sqrt	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:132:10:lv_atan2	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:214:9:lv_pow	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:236:9:lv_map	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_math.c:257:10:lv_rand	0	static

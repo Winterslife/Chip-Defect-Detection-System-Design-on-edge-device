@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\themes\default\lv_theme_default.c:706:13:theme_apply	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\themes\default\lv_theme_default.c:193:19:dark_color_filter_cb	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\themes\default\lv_theme_default.c:199:19:grey_filter_cb	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\themes\default\lv_theme_default.c:654:13:lv_theme_default_init	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\themes\default\lv_theme_default.c:692:13:lv_theme_default_get	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\themes\default\lv_theme_default.c:701:6:lv_theme_default_is_inited	0	static

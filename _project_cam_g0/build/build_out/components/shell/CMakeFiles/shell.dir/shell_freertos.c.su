@@ -1,0 +1,10 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:15:13:shell_exec_task	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:115:13:shell_task	48	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:145:13:ps_cmd	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:84:6:uart_shell_isr	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:26:6:shell_dup_line	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:32:6:shell_abort_exec	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:43:5:shell_start_exec	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:72:6:shell_release_sem	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:103:6:shell_exec_command	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\shell\shell_freertos.c:130:6:shell_init_with_task	16	static

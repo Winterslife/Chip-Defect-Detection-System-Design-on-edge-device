@@ -1,0 +1,2 @@
+riscv64-unknown-elf-ar.exe qc ..\..\..\lib\libTinyMaix.a CMakeFiles/TinyMaix.dir/src/tm_layers_fp8.c.obj CMakeFiles/TinyMaix.dir/src/tm_layers_O1.c.obj CMakeFiles/TinyMaix.dir/src/tm_model.c.obj CMakeFiles/TinyMaix.dir/src/tm_stat.c.obj
+riscv64-unknown-elf-ranlib.exe ..\..\..\lib\libTinyMaix.a

@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\cam\cam_ai.c:148:6:camera_init_task	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\cam\cam_ai.c:69:6:inityuyv2rgb_table	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\cam\cam_ai.c:80:6:yuyv2rgb565	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\cam\cam_ai.c:174:6:camera_start_task	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\cam\cam_ai.c:109:6:camera_init	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\cam\cam_ai.c:199:5:cam_start_firmware_task	16	static

@@ -1,0 +1,15 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:118:12:block_cipher_df	864	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:246:12:ctr_drbg_update_internal	80	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:354:12:mbedtls_ctr_drbg_reseed_internal	416	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:44:6:mbedtls_ctr_drbg_init	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:58:6:mbedtls_ctr_drbg_free	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:74:6:mbedtls_ctr_drbg_set_prediction_resistance	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:80:6:mbedtls_ctr_drbg_set_entropy_len	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:86:5:mbedtls_ctr_drbg_set_nonce_len	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:112:6:mbedtls_ctr_drbg_set_reseed_interval	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:308:5:mbedtls_ctr_drbg_update_ret	64	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:329:6:mbedtls_ctr_drbg_update	64	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:410:5:mbedtls_ctr_drbg_reseed	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:440:5:mbedtls_ctr_drbg_seed	64	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:507:5:mbedtls_ctr_drbg_random_with_add	96	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ctr_drbg.c:584:5:mbedtls_ctr_drbg_random	0	static

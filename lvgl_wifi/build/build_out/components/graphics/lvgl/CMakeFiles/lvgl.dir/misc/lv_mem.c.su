@@ -1,0 +1,14 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:86:6:lv_mem_init	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:112:6:lv_mem_deinit	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:125:8:lv_mem_alloc	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:169:6:lv_mem_free	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:194:8:lv_mem_realloc	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:219:10:lv_mem_test	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:246:6:lv_mem_monitor	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:276:8:lv_mem_buf_get	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:332:6:lv_mem_buf_release	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:349:6:lv_mem_buf_free_all	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:368:30:lv_memcpy	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:430:28:lv_memset	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:473:28:lv_memset_00	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_mem.c:511:28:lv_memset_ff	0	static

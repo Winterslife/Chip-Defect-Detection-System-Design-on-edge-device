@@ -1,0 +1,22 @@
+build_out/components/net/lwip/lwip/CMakeFiles/lwip.dir/src/core/ipv4/autoip.c.obj: \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\core\ipv4\autoip.c \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\include/lwip/opt.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc/lwipopts_user.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\include/lwip/debug.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\include/lwip/arch.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\system/arch/cc.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\system/arch/cpu.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\system/arch/sys_arch.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/FreeRTOS.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc/FreeRTOSConfig.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/projdefs.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/portable.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/deprecated_definitions.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\portable\GCC\RISC-V\common/portmacro.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/mpu_wrappers.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/task.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/list.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/queue.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/task.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/semphr.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/queue.h

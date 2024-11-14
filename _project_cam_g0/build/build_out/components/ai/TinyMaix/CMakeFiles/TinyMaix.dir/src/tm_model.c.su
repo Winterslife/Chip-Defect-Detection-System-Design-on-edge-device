@@ -1,0 +1,4 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_model.c:17:18:tm_load	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_model.c:44:14:tm_unload	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_model.c:51:18:tm_preprocess	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_model.c:87:18:tm_run	160	static

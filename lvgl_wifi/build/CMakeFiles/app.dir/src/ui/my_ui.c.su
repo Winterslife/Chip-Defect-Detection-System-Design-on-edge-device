@@ -1,0 +1,4 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ui\my_ui.c:30:6:app_task_gui	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ui\my_ui.c:41:6:app_task_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ui\my_ui.c:59:6:lv_log_print_g_cb	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ui\my_ui.c:64:5:lvgl_start_firmware_task	16	static

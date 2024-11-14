@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_printf.c:125:20:_out_buffer	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_printf.c:133:20:_out_null	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_printf.c:197:15:_ntoa_format	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_printf.c:550:12:_vsnprintf	160	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_printf.c:865:5:lv_snprintf	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_printf.c:874:5:lv_vsnprintf	0	static

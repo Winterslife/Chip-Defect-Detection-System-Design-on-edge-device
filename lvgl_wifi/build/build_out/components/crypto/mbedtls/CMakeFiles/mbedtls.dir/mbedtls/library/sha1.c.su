@@ -1,0 +1,14 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:44:6:mbedtls_sha1_init	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:51:6:mbedtls_sha1_free	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:59:6:mbedtls_sha1_clone	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:71:5:mbedtls_sha1_starts_ret	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:88:6:mbedtls_sha1_starts	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:95:5:mbedtls_internal_sha1_process	352	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:279:5:mbedtls_sha1_update_ret.part.0	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:268:6:mbedtls_sha1_process	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:279:5:mbedtls_sha1_update_ret	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:330:6:mbedtls_sha1_update	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:341:5:mbedtls_sha1_finish_ret	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:400:6:mbedtls_sha1_finish	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:412:5:mbedtls_sha1_ret	128	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha1.c:440:6:mbedtls_sha1	128	static

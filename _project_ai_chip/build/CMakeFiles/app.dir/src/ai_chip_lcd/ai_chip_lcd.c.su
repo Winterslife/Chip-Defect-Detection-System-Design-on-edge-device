@@ -1,0 +1,10 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_chip_detection/main.c:42:17:layer_cb	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:244:5:detect_dyw	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:251:5:detect_biankuang	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:258:5:detect_huashang	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_chip_detection/main.c:99:6:maixhub_image_preprocess_quantize	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_chip_detection/main.c:154:5:ai_chip_main	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:119:6:ai_chip_task	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:43:6:scale_rgb888_to_rgb565	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:75:6:scale_rgb888	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c:227:6:ai_chip_init_with_task	16	static

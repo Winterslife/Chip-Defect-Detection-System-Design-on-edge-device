@@ -1,0 +1,7 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:510:19:find_snap_point_y	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:455:19:find_snap_point_x	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:612:19:elastic_diff.part.0	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:46:6:_lv_indev_scroll_handler	112	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:112:6:_lv_indev_scroll_throw_handler	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:223:12:lv_indev_scroll_throw_predict	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\core\lv_indev_scroll.c:248:6:lv_indev_scroll_get_snap_dist	16	static

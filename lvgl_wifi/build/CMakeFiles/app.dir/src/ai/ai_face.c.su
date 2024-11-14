@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c:42:17:layer_cb	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c:97:6:maixhub_image_preprocess_quantize	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c:152:5:ai_face_mainai_face_result	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ai\ai_face.c:36:6:scale_rgb565_to_rgb888	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ai\ai_face.c:64:5:ai_face	36320	static

@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\libs\bmp\lv_bmp.c:246:13:decoder_close	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\libs\bmp\lv_bmp.c:192:17:decoder_read_line	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\libs\bmp\lv_bmp.c:123:17:decoder_open	112	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\libs\bmp\lv_bmp.c:72:17:decoder_info	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\libs\bmp\lv_bmp.c:53:6:lv_bmp_init	16	static

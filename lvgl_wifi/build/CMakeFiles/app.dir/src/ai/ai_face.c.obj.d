@@ -1,0 +1,20 @@
+CMakeFiles/app.dir/src/ai/ai_face.c.obj: \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\ai\ai_face.c \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\board\bl616g0\board.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_irq.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_uart.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_core.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/csr.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/riscv_arch.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_gcc.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_ld.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_common.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_mtimer.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_irq.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_l1c.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\inc\tinymaix/tinymaix.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\inc\tinymaix/tm_port.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_mtimer.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/model_final.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/model_info.h

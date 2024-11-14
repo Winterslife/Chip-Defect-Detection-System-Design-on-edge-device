@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_layers_O1.c:629:10:tml_conv2d_dwconv2d	304	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_layers_O1.c:687:18:tml_gap	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_layers_O1.c:710:18:tml_fc	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_layers_O1.c:728:18:tml_softmax	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_layers_O1.c:759:18:tml_reshape	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\src\tm_layers_O1.c:765:18:tml_add	80	static

@@ -1,0 +1,8 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:398:5:mq_close	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:461:5:mq_getattr	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:494:7:mq_open	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:631:9:mq_timedreceive	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:611:9:mq_receive	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:724:5:mq_timedsend	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:621:5:mq_send	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_mqueue.c:829:5:mq_unlink	48	static

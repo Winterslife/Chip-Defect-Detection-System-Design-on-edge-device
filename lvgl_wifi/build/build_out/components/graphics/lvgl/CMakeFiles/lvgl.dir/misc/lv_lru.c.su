@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_lru.c:73:12:lv_lru_create	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_lru.c:103:6:lv_lru_del	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_lru.c:192:14:lv_lru_get	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_lru.c:215:14:lv_lru_remove	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_lru.c:237:6:lv_lru_remove_lru_item	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_lru.c:139:14:lv_lru_set	48	static

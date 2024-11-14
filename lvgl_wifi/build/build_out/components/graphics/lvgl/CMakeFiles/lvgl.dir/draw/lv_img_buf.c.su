@@ -1,0 +1,9 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:51:12:lv_img_buf_get_px_color	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:118:10:lv_img_buf_get_px_alpha	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:181:6:lv_img_buf_set_px_alpha	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:240:6:lv_img_buf_set_px_color	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:309:6:lv_img_buf_set_palette	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:366:6:lv_img_buf_free	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:383:10:lv_img_buf_get_img_size	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:330:16:lv_img_buf_alloc	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\lv_img_buf.c:423:6:_lv_img_buf_get_transformed_area	48	static

@@ -1,0 +1,9 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:150:13:lv_led_constructor	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:158:13:lv_led_event	240	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:54:12:lv_led_create	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:71:6:lv_led_set_color	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:85:6:lv_led_set_brightness	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:102:6:lv_led_on	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:111:6:lv_led_off	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:120:6:lv_led_toggle	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\led\lv_led.c:138:9:lv_led_get_brightness	0	static

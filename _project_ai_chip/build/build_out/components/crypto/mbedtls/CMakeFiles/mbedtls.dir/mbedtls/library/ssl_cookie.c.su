@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ssl_cookie.c:65:6:mbedtls_ssl_cookie_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ssl_cookie.c:78:6:mbedtls_ssl_cookie_set_timeout	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ssl_cookie.c:83:6:mbedtls_ssl_cookie_free	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ssl_cookie.c:94:5:mbedtls_ssl_cookie_setup	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ssl_cookie.c:147:5:mbedtls_ssl_cookie_write	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ssl_cookie.c:189:5:mbedtls_ssl_cookie_check	96	static

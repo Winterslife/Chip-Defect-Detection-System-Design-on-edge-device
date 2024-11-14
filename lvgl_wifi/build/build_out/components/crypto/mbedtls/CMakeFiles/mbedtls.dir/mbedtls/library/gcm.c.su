@@ -1,0 +1,9 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:184:13:gcm_mult	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:56:6:mbedtls_gcm_init	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:130:5:mbedtls_gcm_setkey	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:240:5:mbedtls_gcm_starts	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:329:5:mbedtls_gcm_update	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:392:5:mbedtls_gcm_finish	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:433:5:mbedtls_gcm_crypt_and_tag	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:466:5:mbedtls_gcm_auth_decrypt	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\gcm.c:509:6:mbedtls_gcm_free	16	static

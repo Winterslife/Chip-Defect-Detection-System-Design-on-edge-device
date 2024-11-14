@@ -1,0 +1,26 @@
+SET(SOURCES components/ui_comp_textarea1.c
+    components/ui_comp.c
+    screens/ui_ScreenWelcome.c
+    screens/ui_ScreenOption.c
+    screens/ui_ScreenWifisetting.c
+    screens/ui_ScreenConnected.c
+    screens/ui_ScreenCam.c
+    screens/ui_ScreenPWIncorrect.c
+    screens/ui_ScreenDuoyuwu.c
+    screens/ui_ScreenBiankuang.c
+    screens/ui_ScreenHuashang.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    images/ui_img_wifi_png.c
+    images/ui_img_263744089.c
+    images/ui_img_image_png.c
+    images/ui_img_410347302.c
+    images/ui_img_return_png.c
+    images/ui_img_906722072.c
+    images/ui_img_dyw5_png.c
+    images/ui_img_biankuang241_png.c
+    images/ui_img_huashang338_png.c
+    images/ui_img_new1_png.c)
+
+add_library(ui ${SOURCES})

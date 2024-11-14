@@ -1,0 +1,37 @@
+CMakeFiles/app.dir/src/ai_chip_lcd/ai_chip_lcd.c.obj: \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\ai_chip_lcd\ai_chip_lcd.c \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/FreeRTOS.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc/FreeRTOSConfig.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/projdefs.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/portable.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/deprecated_definitions.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\portable\GCC\RISC-V\common/portmacro.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/mpu_wrappers.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/task.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/list.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/timers.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/task.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\components\shell\shell.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\components\shell\shell_config.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_mtimer.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\board\bl616g0\board.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc/lcd_conf_user.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd/lcd.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd/font.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_core.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/csr.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/riscv_arch.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_gcc.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_ld.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_common.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_mtimer.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_irq.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_l1c.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd/lcd_conf.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd/spi/st7789v_spi.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd_conf.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_chip_detection/main.c \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc\tinymaix/tinymaix.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc\tinymaix/tm_port.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_chip_detection/model_final.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_chip_detection/model_info.h

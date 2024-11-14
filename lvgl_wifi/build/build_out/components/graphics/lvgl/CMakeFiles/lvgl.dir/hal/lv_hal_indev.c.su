@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\hal\lv_hal_indev.c:57:6:lv_indev_drv_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\hal\lv_hal_indev.c:76:14:lv_indev_drv_register	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\hal\lv_hal_indev.c:106:6:lv_indev_drv_update	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\hal\lv_hal_indev.c:133:6:lv_indev_delete	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\hal\lv_hal_indev.c:152:14:lv_indev_get_next	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\hal\lv_hal_indev.c:165:6:_lv_indev_read	16	static

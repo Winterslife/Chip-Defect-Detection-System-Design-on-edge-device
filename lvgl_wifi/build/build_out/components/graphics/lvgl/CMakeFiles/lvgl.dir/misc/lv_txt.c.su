@@ -1,0 +1,16 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:509:16:lv_txt_utf8_size	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:563:17:lv_txt_utf8_conv_wc	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:591:17:lv_txt_utf8_next	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:699:17:lv_txt_utf8_get_byte_id	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:719:17:lv_txt_utf8_get_char_id	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:738:17:lv_txt_utf8_get_length	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:527:17:lv_txt_unicode_to_utf8	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:666:17:lv_txt_utf8_prev	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:279:10:_lv_txt_get_next_line	128	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:343:12:lv_txt_get_width	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:91:6:lv_txt_get_size	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:382:6:_lv_txt_is_cmd	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:413:6:_lv_txt_ins	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:434:6:_lv_txt_cut	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:450:8:_lv_txt_set_text_vfmt	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\misc\lv_txt.c:493:6:_lv_txt_encoded_letter_next_2	32	static

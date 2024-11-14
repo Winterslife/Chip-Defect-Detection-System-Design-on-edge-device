@@ -1,0 +1,14 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:43:6:mbedtls_sha256_init	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:50:6:mbedtls_sha256_free	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:58:6:mbedtls_sha256_clone	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:70:5:mbedtls_sha256_starts_ret	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:109:6:mbedtls_sha256_starts	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:163:5:mbedtls_internal_sha256_process	400	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:263:5:mbedtls_sha256_update_ret.part.0	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:252:6:mbedtls_sha256_process	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:263:5:mbedtls_sha256_update_ret	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:314:6:mbedtls_sha256_update	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:325:5:mbedtls_sha256_finish_ret	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:389:6:mbedtls_sha256_finish	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:401:5:mbedtls_sha256_ret	144	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha256.c:431:6:mbedtls_sha256	0	static

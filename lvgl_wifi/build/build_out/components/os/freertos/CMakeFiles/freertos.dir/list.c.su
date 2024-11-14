@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\list.c:50:6:vListInitialise	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\list.c:75:6:vListInitialiseItem	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\list.c:87:6:vListInsertEnd	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\list.c:117:6:vListInsert	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\list.c:188:13:uxListRemove	0	static

@@ -1,0 +1,3 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_pthread_barrier.c:57:5:pthread_barrier_destroy	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_pthread_barrier.c:70:5:pthread_barrier_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_pthread_barrier.c:120:5:pthread_barrier_wait	16	static

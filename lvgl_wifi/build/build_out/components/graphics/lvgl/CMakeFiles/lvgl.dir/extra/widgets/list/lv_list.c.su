@@ -1,0 +1,4 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\list\lv_list.c:56:12:lv_list_create	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\list\lv_list.c:65:12:lv_list_add_text	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\list\lv_list.c:76:12:lv_list_add_btn	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\list\lv_list.c:101:14:lv_list_get_btn_text	32	static

@@ -1,0 +1,13 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:592:12:ecdsa_verify_restartable.constprop	128	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:246:12:ecdsa_sign_restartable.constprop	160	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:380:5:mbedtls_ecdsa_can_do	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:397:5:mbedtls_ecdsa_sign	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:700:5:mbedtls_ecdsa_verify	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:743:5:mbedtls_ecdsa_write_signature_restartable	160	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:793:5:mbedtls_ecdsa_write_signature	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:841:5:mbedtls_ecdsa_read_signature_restartable	64	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:827:5:mbedtls_ecdsa_read_signature	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:907:5:mbedtls_ecdsa_genkey	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:926:5:mbedtls_ecdsa_from_keypair	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:945:6:mbedtls_ecdsa_init	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\ecdsa.c:955:6:mbedtls_ecdsa_free	0	static

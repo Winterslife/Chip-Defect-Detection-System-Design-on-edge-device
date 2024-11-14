@@ -1,0 +1,7 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:16:6:bflb_sec_mutex_init	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:23:5:bflb_sec_aes_mutex_take	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:31:5:bflb_sec_aes_mutex_give	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:39:5:bflb_sec_sha_mutex_take	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:47:5:bflb_sec_sha_mutex_give	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:55:5:bflb_sec_pka_mutex_take	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port\sec_mutex.c:63:5:bflb_sec_pka_mutex_give	16	static

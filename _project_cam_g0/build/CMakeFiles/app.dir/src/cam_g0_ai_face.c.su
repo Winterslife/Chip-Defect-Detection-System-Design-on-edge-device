@@ -1,0 +1,15 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c:42:17:layer_cb	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:295:5:cmd_ai_face_off	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:301:5:cmd_ai_face_on	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:278:5:cmd_cam_g0_off	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:285:5:cmd_cam_g0_on	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:416:5:cmd_rgb565_pic	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c:97:6:maixhub_image_preprocess_quantize	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\ai\TinyMaix\examples/maixhub_face_detection/main.c:152:5:ai_face_main	96	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:48:6:inityuyv2rgb_table	80	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:59:6:yuyv2rgb565	96	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:186:6:cam_g0_ai_face	96	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:89:6:scale_rgb565_to_rgb888	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:144:6:cam_g0_init	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:242:6:ai_face_init_with_task	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\src\cam_g0_ai_face.c:396:6:bflb_rgb565_dump_hex	32	static

@@ -1,0 +1,8 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:171:12:entropy_update	112	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:250:12:entropy_gather_internal.part.0	176	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:51:6:mbedtls_entropy_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:108:6:mbedtls_entropy_free	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:134:5:mbedtls_entropy_add_source	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:227:5:mbedtls_entropy_update_manual	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:300:5:mbedtls_entropy_gather	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\entropy.c:319:5:mbedtls_entropy_func	112	static

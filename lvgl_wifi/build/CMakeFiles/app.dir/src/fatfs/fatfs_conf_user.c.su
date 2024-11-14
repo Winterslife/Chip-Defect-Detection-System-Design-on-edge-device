@@ -1,0 +1,7 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:275:13:print_file_tree	624	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:404:5:cmd_sd_read_post	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:330:5:cmd_sd_tree	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:172:13:sd_read_jpg.constprop	672	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:255:5:cmd_sd_read_jpg	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:24:6:filesystem_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\fatfs\fatfs_conf_user.c:94:6:fatfs_read_jpg	672	static

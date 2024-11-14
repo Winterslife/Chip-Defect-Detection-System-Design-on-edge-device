@@ -1,0 +1,13 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:44:5:lcd_init	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:85:5:lcd_async_callback_register	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:98:5:lcd_set_dir	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:121:5:lcd_draw_point	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:137:5:lcd_draw_area	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:153:5:lcd_draw_picture_blocking	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:170:5:lcd_draw_picture_nonblocking	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:181:5:lcd_draw_is_busy	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:192:5:lcd_clear	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:208:5:lcd_draw_line	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:251:5:lcd_draw_rectangle	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:269:5:lcd_draw_circle	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.c:313:5:lcd_draw_str_ascii16	80	static

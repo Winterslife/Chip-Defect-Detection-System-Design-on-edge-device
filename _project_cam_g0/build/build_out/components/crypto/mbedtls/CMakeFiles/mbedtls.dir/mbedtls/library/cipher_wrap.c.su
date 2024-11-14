@@ -1,0 +1,10 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:93:13:gcm_ctx_free	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:83:14:gcm_ctx_alloc	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:509:12:gcm_aes_setkey_wrap	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:216:13:aes_ctx_free	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:204:15:aes_ctx_alloc	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:192:12:aes_setkey_dec_wrap	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:198:12:aes_setkey_enc_wrap	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:156:12:aes_crypt_ctr_wrap	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:128:12:aes_crypt_cbc_wrap	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\cipher_wrap.c:121:12:aes_crypt_ecb_wrap	0	static

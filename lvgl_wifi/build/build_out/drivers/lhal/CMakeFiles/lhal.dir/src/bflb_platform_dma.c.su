@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\src\bflb_platform_dma.c:7:6:bflb_platform_dma_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\src\bflb_platform_dma.c:20:6:bflb_platform_dma_push	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\src\bflb_platform_dma.c:66:6:bflb_platform_dma_buserr_isr	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\src\bflb_platform_dma.c:73:6:bflb_platform_dma_wait_eot	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\src\bflb_platform_dma.c:87:6:bflb_platform_dma_clear_eot	0	static

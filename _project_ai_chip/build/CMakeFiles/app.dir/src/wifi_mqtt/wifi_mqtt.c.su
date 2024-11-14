@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\wifi_mqtt\wifi_mqtt.c:178:13:client_refresher	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\wifi_mqtt\wifi_mqtt.c:155:13:publish_callback_1	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\wifi_mqtt\wifi_mqtt.c:98:6:mqtt_close	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\wifi_mqtt\wifi_mqtt.c:111:6:mqtt_init_with_task	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\src\wifi_mqtt\wifi_mqtt.c:189:6:send_pic_large	48	static

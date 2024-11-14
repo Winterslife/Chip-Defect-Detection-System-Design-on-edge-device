@@ -1,0 +1,4 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\wifi_mqtt_sub\wifi_mqtt_sub.c:98:6:test_close_face	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\wifi_mqtt_sub\wifi_mqtt_sub.c:212:13:client_refresher	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\wifi_mqtt_sub\wifi_mqtt_sub.c:193:13:publish_callback_1	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\src\wifi_mqtt_sub\wifi_mqtt_sub.c:236:5:cmd_mqtt_subscribe	160	static

@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_slider.c:412:13:position_knob	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_slider.c:80:13:lv_slider_constructor	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_slider.c:95:13:lv_slider_event	240	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_slider.c:60:12:lv_slider_create	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_slider.c:68:6:lv_slider_is_dragged	0	static

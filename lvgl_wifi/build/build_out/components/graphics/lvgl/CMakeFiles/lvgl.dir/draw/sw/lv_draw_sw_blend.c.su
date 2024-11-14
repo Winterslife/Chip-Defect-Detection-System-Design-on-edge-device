@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_blend.c:945:26:color_blend_true_color_additive	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_blend.c:998:26:color_blend_true_color_subtractive	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_blend.c:1024:26:color_blend_true_color_multiply	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_blend.c:91:6:lv_draw_sw_blend	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_blend.c:104:28:lv_draw_sw_blend_basic	112	static

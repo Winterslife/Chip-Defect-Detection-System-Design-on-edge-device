@@ -1,0 +1,5 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\core\mem.c:519:6:mem_init	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\core\mem.c:620:6:mem_free	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\core\mem.c:704:7:mem_trim	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\core\mem.c:851:7:mem_malloc	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\net\lwip\lwip\src\core\mem.c:1033:7:mem_calloc	16	static

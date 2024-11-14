@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_rect.c:1040:35:shadow_blur_corner	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_rect.c:100:13:draw_bg	176	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_rect.c:330:13:draw_bg_img	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_rect.c:85:6:lv_draw_sw_bg	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_rect.c:1155:6:draw_border_generic	208	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\draw\sw\lv_draw_sw_rect.c:69:6:lv_draw_sw_rect	208	static

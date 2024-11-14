@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\diskio.c:19:6:disk_driver_callback_init	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\diskio.c:30:9:disk_status	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\diskio.c:59:9:disk_initialize	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\diskio.c:88:9:disk_read	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\diskio.c:122:9:disk_write	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\diskio.c:156:9:disk_ioctl	16	static

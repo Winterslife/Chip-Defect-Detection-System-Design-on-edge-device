@@ -1,0 +1,11 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:483:6:mbedtls_aes_init	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:490:6:mbedtls_aes_free	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:521:5:mbedtls_aes_setkey_enc	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:637:5:mbedtls_aes_setkey_dec	320	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:834:5:mbedtls_internal_aes_encrypt	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:895:6:mbedtls_aes_encrypt	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:907:5:mbedtls_internal_aes_decrypt	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:968:6:mbedtls_aes_decrypt	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:979:5:mbedtls_aes_crypt_ecb	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:1017:5:mbedtls_aes_crypt_cbc	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\aes.c:1394:5:mbedtls_aes_crypt_ctr	48	static

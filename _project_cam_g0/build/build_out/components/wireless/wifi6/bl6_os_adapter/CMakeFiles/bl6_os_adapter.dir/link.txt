@@ -1,0 +1,2 @@
+riscv64-unknown-elf-ar.exe qc ..\..\..\..\lib\libbl6_os_adapter.a CMakeFiles/bl6_os_adapter.dir/src/rtos_al.c.obj CMakeFiles/bl6_os_adapter.dir/src/platform_bouffalo_sdk.c.obj
+riscv64-unknown-elf-ranlib.exe ..\..\..\..\lib\libbl6_os_adapter.a

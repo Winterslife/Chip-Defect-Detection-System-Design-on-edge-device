@@ -1,0 +1,32 @@
+build_out/components/os/freertos/CMakeFiles/freertos.dir/posix/source/FreeRTOS_POSIX_pthread_cond.c.obj: \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_pthread_cond.c \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX_portable.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\components\libc\sys\types.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX_portable_default.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/FreeRTOS.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\lvgl_wifi\inc/FreeRTOSConfig.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/projdefs.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/portable.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/deprecated_definitions.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\portable\GCC\RISC-V\common/portmacro.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/mpu_wrappers.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/event_groups.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/timers.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/task.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/list.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/semphr.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/queue.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/task.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/sys/types.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX_types.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX_internal.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/iot_doubly_linked_list.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/errno.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/pthread.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/sched.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/time.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/sys/types.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/signal.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\posix\include/FreeRTOS_POSIX/utils.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\os\freertos\include/atomic_rtos.h

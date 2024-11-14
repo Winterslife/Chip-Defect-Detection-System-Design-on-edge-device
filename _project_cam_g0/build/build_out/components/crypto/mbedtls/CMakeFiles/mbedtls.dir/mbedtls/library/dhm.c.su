@@ -1,0 +1,10 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:159:12:dhm_make_common	48	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:113:6:mbedtls_dhm_init	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:122:5:mbedtls_dhm_read_params	48	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:200:5:mbedtls_dhm_make_params	48	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:253:5:mbedtls_dhm_set_group	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:275:5:mbedtls_dhm_read_public	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:294:5:mbedtls_dhm_make_public	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:392:5:mbedtls_dhm_calc_secret	80	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:449:6:mbedtls_dhm_free	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\dhm.c:472:5:mbedtls_dhm_parse_dhm	80	static

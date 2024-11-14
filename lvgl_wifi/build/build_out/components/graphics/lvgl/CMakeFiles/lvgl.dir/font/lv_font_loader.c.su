@@ -1,0 +1,4 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\font\lv_font_loader.c:223:12:read_label	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\font\lv_font_loader.c:117:6:lv_font_free	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\font\lv_font_loader.c:578:9:load_kern	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\font\lv_font_loader.c:86:12:lv_font_load	176	static

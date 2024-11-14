@@ -1,0 +1,33 @@
+build_out/components/crypto/mbedtls/CMakeFiles/mbedtls.dir/mbedtls/library/bignum.c.obj: \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\bignum.c \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\common.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\examples\A_work\_project_cam_g0\inc/mbedtls_sample_config.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/check_config.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/bignum.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/bn_mul.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/platform_util.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/error.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\constant_time_internal.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/ssl_internal.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/ssl.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/ecp.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/ssl_ciphersuites.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/pk.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/md.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/rsa.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/ecdsa.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/cipher.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/x509_crt.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/x509.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/asn1.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/x509_crl.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/dhm.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/ecdh.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/md5.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/sha1.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/sha256.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/sha512.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\include/mbedtls/platform.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\port/mbedtls_port_bouffalo_sdk.h \
+ c:\users\sxs\desktop\bouffalo_sdk_vmg0\components\mm\mem.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_irq.h

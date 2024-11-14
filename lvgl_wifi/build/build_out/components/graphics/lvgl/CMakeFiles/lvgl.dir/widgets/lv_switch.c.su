@@ -1,0 +1,6 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_switch.c:227:13:lv_switch_anim_ready	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_switch.c:217:13:lv_switch_anim_exec_cb	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_switch.c:101:13:lv_switch_destructor	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_switch.c:85:13:lv_switch_constructor	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_switch.c:109:13:lv_switch_event	176	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\widgets\lv_switch.c:73:12:lv_switch_create	16	static

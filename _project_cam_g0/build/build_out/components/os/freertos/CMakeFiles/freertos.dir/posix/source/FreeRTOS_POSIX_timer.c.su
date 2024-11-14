@@ -1,0 +1,6 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_timer.c:61:6:prvTimerCallback	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_timer.c:101:5:timer_create	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_timer.c:153:5:timer_delete	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_timer.c:180:5:timer_getoverrun	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_timer.c:190:5:timer_settime	80	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\os\freertos\posix\source\FreeRTOS_POSIX_timer.c:302:5:timer_gettime	32	static

@@ -1,0 +1,2 @@
+riscv64-unknown-elf-ar.exe qc ..\..\lib\libshell.a CMakeFiles/shell.dir/shell.c.obj CMakeFiles/shell.dir/shell_freertos.c.obj
+riscv64-unknown-elf-ranlib.exe ..\..\lib\libshell.a

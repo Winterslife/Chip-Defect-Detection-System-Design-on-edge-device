@@ -1,0 +1,10 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:37:13:spi_dma_callback	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:73:5:lcd_spi_hard_4_async_callback_register	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:79:5:lcd_spi_hard_4_async_callback_enable	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:85:5:lcd_spi_hard_4_init	64	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:187:5:lcd_spi_hard_4_is_busy	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:196:5:lcd_spi_hard_4_transmit_cmd_para	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:216:5:lcd_spi_hard_4_transmit_cmd_pixel_sync	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:250:5:lcd_spi_hard_4_transmit_cmd_pixel_async	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:292:5:lcd_spi_hard_4_transmit_cmd_pixel_fill_sync	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi\bl_spi_hard_4.c:326:5:lcd_spi_hard_4_transmit_cmd_pixel_fill_async	48	static

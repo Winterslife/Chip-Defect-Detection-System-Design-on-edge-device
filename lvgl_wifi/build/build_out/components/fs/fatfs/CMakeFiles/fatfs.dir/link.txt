@@ -1,0 +1,2 @@
+riscv64-unknown-elf-ar.exe qc ..\..\..\lib\libfatfs.a CMakeFiles/fatfs.dir/diskio.c.obj CMakeFiles/fatfs.dir/ff.c.obj CMakeFiles/fatfs.dir/ffsystem.c.obj CMakeFiles/fatfs.dir/ffunicode.c.obj CMakeFiles/fatfs.dir/port/fatfs_sdh_sdcard.c.obj
+riscv64-unknown-elf-ranlib.exe ..\..\..\lib\libfatfs.a

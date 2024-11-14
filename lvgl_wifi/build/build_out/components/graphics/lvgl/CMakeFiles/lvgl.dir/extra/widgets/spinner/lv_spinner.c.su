@@ -1,0 +1,4 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\spinner\lv_spinner.c:66:13:lv_spinner_constructor	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\spinner\lv_spinner.c:93:13:arc_anim_start_angle	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\spinner\lv_spinner.c:99:13:arc_anim_end_angle	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\graphics\lvgl\extra\widgets\spinner\lv_spinner.c:51:12:lv_spinner_create	16	static

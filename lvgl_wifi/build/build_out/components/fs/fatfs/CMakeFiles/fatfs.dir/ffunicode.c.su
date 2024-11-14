@@ -1,0 +1,3 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\ffunicode.c:15222:7:ff_uni2oem	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\ffunicode.c:15244:7:ff_oem2uni	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\ffunicode.c:15464:7:ff_wtoupper	0	static

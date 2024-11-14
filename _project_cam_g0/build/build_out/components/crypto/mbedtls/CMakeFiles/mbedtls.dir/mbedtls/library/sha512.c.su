@@ -1,0 +1,14 @@
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:58:6:mbedtls_sha512_init	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:65:6:mbedtls_sha512_free	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:73:6:mbedtls_sha512_clone	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:85:5:mbedtls_sha512_starts_ret	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:134:6:mbedtls_sha512_starts	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:190:5:mbedtls_internal_sha512_process	1184	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:304:5:mbedtls_sha512_update_ret.part.0	32	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:293:6:mbedtls_sha512_process	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:304:5:mbedtls_sha512_update_ret	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:354:6:mbedtls_sha512_update	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:365:5:mbedtls_sha512_finish_ret	16	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:435:6:mbedtls_sha512_finish	0	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:447:5:mbedtls_sha512_ret	256	static
+C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\components\crypto\mbedtls\mbedtls\library\sha512.c:481:6:mbedtls_sha512	256	static

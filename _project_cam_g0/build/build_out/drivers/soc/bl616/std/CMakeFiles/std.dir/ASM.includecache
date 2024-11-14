@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sxs/Desktop/bouffalo_sdk_vmg0/drivers/soc/bl616/std/startup/irq_ctx.h
+
+C:/Users/sxs/Desktop/bouffalo_sdk_vmg0/drivers/soc/bl616/std/startup/riscv_fpu.S
+irq_ctx.h
+C:/Users/sxs/Desktop/bouffalo_sdk_vmg0/drivers/soc/bl616/std/startup/irq_ctx.h
+
+C:/Users/sxs/Desktop/bouffalo_sdk_vmg0/drivers/soc/bl616/std/startup/start.S
+
+C:/Users/sxs/Desktop/bouffalo_sdk_vmg0/drivers/soc/bl616/std/startup/vector.S
+irq_ctx.h
+C:/Users/sxs/Desktop/bouffalo_sdk_vmg0/drivers/soc/bl616/std/startup/irq_ctx.h
+

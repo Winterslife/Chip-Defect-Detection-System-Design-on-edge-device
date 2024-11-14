@@ -1,0 +1,7 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:33:5:MMC_disk_status	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:79:5:MMC_disk_ioctl	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:106:9:Translate_Result_Code	0	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:54:5:MMC_disk_read	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:63:5:MMC_disk_write	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:38:5:MMC_disk_initialize	16	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\components\fs\fatfs\port\fatfs_sdh_sdcard.c:111:6:fatfs_sdh_driver_register	48	static

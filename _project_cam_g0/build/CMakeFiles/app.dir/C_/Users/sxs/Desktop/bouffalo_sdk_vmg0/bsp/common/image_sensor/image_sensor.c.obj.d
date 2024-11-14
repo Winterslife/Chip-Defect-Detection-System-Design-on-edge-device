@@ -1,0 +1,19 @@
+CMakeFiles/app.dir/C_/Users/sxs/Desktop/bouffalo_sdk_vmg0/bsp/common/image_sensor/image_sensor.c.obj: \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\image_sensor.c \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\image_sensor.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_core.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/csr.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/riscv_arch.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_gcc.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_ld.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_common.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_mtimer.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_irq.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_l1c.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\bf2013.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\gc0308.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\gc0328.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\gc2053.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\bsp\common\image_sensor\ov2685.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_i2c.h \
+ C:\Users\sxs\Desktop\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_core.h

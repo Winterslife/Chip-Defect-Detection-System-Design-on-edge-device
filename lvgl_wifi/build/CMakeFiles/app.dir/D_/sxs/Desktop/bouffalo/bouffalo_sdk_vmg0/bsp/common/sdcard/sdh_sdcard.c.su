@@ -1,0 +1,8 @@
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:261:17:SDH_SendCardCommand	32	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:851:17:SD_SwitchFunction	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:796:17:SD_SetDataBusWidth	80	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:958:24:SD_SelectFunction	112	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:1200:10:SDH_Init	128	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:1226:10:SD_Erase	96	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:1371:10:SDH_ReadMultiBlocks	48	static
+D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\sdcard\sdh_sdcard.c:1505:10:SDH_WriteMultiBlocks	64	static

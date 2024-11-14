@@ -1,0 +1,19 @@
+CMakeFiles/app.dir/D_/sxs/Desktop/bouffalo/bouffalo_sdk_vmg0/bsp/common/lcd/mipi_dbi/ili9488_dbi.c.obj: \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\mipi_dbi\ili9488_dbi.c \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\font.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_core.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/csr.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include\arch/risc-v/riscv_arch.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_gcc.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/compiler/compiler_ld.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_common.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_mtimer.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_irq.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\drivers\lhal\include/bflb_l1c.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd_conf.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\examples\A_work\_project_ai_chip\inc/lcd_conf_user.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\spi/st7789v_spi.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd_conf.h \
+ D:\sxs\Desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\mipi_dbi\ili9488_dbi.h \
+ d:\sxs\desktop\bouffalo\bouffalo_sdk_vmg0\bsp\common\lcd\lcd_conf.h
